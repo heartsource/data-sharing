@@ -1,0 +1,13 @@
+1,ABC,1,F,15,34,Y,N,,,Ford
+1,NBC,2,M,53,54,Y,Y,N,4,Ford
+1,ABC,3,M,42,60,N,,,,Toyota
+2,CBS,4,F,62,25,Y,Y,Y,2,Mazda
+2,FOX,5,M,19,64,Y,Y,N,1,Ford
+3,NBC,6,F,23,19,N,,,,Mazda
+3,CNN,7,F,45,84,N,,,,Honda
+3,FOX,8,F,43,4,Y,Y,Y,5,Honda
+5,DISCOVERY,9,F,55,45,Y,Y,Y,4,Ford
+5,NBC,10,M,57,52,Y,Y,Y,5,Chevy
+7,CNN,11,M,72,32,Y,Y,N,4,Toyota
+8,FOX,12,F,23,25,Y,N,,,Honda
+9,DISCOVERY,13,M,36,64,Y,N,,,Mazda

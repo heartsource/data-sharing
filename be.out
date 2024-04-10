@@ -1,0 +1,7 @@
+gender,broadcaster,brand,aid,AdRecall,BrandRecall,BrandLinkage,MessageRecall,MessageLinkage,HighlyLikeable,Likeable,Unlikeable,Neutral
+M,NBC,Ford,1,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+M,ABC,Competitor,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M,DISCOVERY,Competitor,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+M,CNN,Competitor,7,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+M,FOX,Ford,2,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+M,NBC,Competitor,5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
