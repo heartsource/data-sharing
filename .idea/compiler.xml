@@ -6,8 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="learningSpark" />
+        <module name="library-datatshare" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data-processor" target="1.8" />
+      <module name="datasharing" target="11" />
+      <module name="example-brandeffect" target="1.8" />
+      <module name="example-broadcast" target="1.8" />
+      <module name="full-test-area" target="1.8" />
+      <module name="library-datatshare (1)" target="1.8" />
+      <module name="library-datatshare (2)" target="1.8" />
+      <module name="orchistrator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="data-processor" options="" />
+      <module name="heartdatasharing" options="" />
+      <module name="library-datatshare" options="" />
+    </option>
   </component>
 </project>

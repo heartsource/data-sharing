@@ -1,12 +1,3 @@
 broadcaster,politics,NewsScore,ComedyScore,DocumentaryScore
-NBCU,independent,0.2,0.2,0.1
-NBCU,left_leaning,0.2,0.2,0.1
 FOX,right_leaning,0.3,0.05,0.3
-CNN,left,0.75,0.05,0.25
-ABC,moderate,0.1,0.15,0.15
-NBCU,moderate,0.2,0.2,0.1
 FOX,right,0.3,0.05,0.3
-Warner Bros. Discovery,independent,0.05,0.04,0.65
-CBS,moderate,0.15,0.15,0.1
-NBCU,left,0.2,0.2,0.1
-FOX,independent,0.3,0.05,0.3
